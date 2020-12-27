@@ -1,0 +1,10 @@
+[package]
+name = "edtr"
+version = "0.1.0"
+authors = ["Tucker Hawkinson <7201606-tucker.hawkinson@users.noreply.gitlab.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+term_size = "0.3.2"
